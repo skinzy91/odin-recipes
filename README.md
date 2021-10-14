@@ -1,0 +1,1 @@
+# so far i've learned how to clone a repository from github, #create keys, set up an ssh connection as well as committing #files to github using the command line.
