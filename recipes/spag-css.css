@@ -1,0 +1,13 @@
+* {
+background-color: white; text-align:left; color: black;
+background-image: url("spaghetti.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+
+
+h1{
+    
+}
